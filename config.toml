@@ -1,6 +1,6 @@
 ######################## default configuration ####################
-baseURL = "https://sweettattoos.netlify.app"
-title = "sweet Tattoos Ideas"
+baseURL = "https://amazingtattoos.netlify.app"
+title = "amazing Tattoos Ideas"
 theme = "jala"
 languageName = "En"
 languageCode = "en-us"
@@ -73,7 +73,7 @@ weight = 5
 [params]
 logo = "images/logo.png"
 # Meta data
-description = "sweet Tattoos Ideas"
+description = "amazing Tattoos Ideas"
 author = ""
 
 # search  
@@ -81,7 +81,7 @@ search = true
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # copyright
-copyright = "Copyright 2021 sweet Tattoos Ideas](https://sweettattoos.netlify.app)"
+copyright = "Copyright 2021 amazing Tattoos Ideas](https://amazingtattoos.netlify.app)"
 
 
 # Preloader
